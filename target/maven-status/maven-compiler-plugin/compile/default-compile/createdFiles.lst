@@ -1,0 +1,6 @@
+com\emergentes\controlador\ConsultaClienteControlador.class
+com\emergentes\dao\ConsultaClienteDAO.class
+com\emergentes\modelo\Empleado.class
+com\emergentes\modelo\ConsultaCliente.class
+com\emergentes\modelo\Servicio.class
+com\emergentes\utiles\ConexionBD.class
